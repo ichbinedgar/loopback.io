@@ -175,7 +175,7 @@ The following table lists commercially-supported LoopBack connectors. For more i
     </tr>
     <tr>
       <td><a href="PostgreSQL-connector.html">PostgreSQL</a></td>
-      <td><a href="https://www.npmjs.com/package/loopback-connector-mysql" class="external-link" rel="nofollow">loopback-connector-postgresql</a></td>
+      <td><a href="https://www.npmjs.com/package/loopback-connector-postgresql" class="external-link" rel="nofollow">loopback-connector-postgresql</a></td>
       <td><code>npm install --save loopback-connector-postgresql</code></td>
     </tr>
     <tr>
